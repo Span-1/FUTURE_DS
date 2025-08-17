@@ -15,10 +15,7 @@ FUTURE_DS_01/
 │ ├── Dashboard.pbix
 │ ├── Dashboard_Screenshot.png
 │ └── README.md
-│
-├── Task_02/ # (to be added later)
-│
-└── README.md # Internship overview
+
 
 
 ---
