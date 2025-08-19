@@ -62,37 +62,51 @@ Tools Used: Power BI,Excel
 Skills Gained: Data cleaning, DAX formulas, trend analysis, business storytelling
 
 Deliverable: Interactive Power BI dashboard with visuals and insights
-# Task 2: Social Media Campaign Performance Tracker
-
-**Objective:**  
-Analyze Facebook & Instagram ad campaign data to evaluate performance, engagement, CTR, and ROI.  
-
-**Tools Used:**  
-- Power BI  
-- Google Looker Studio  
-- Excel/Google Sheets  
-- Canva (for visual enhancement, optional)  
-
-**Process:**  
-- Designed a **dashboard** to track key campaign metrics including Impressions, Clicks, CTR, Conversions, and Spend.  
-- Built a **Funnel Chart** (Impressions → Clicks → Approved Conversions) to visualize the customer journey.  
-- Used **Matrix and Category Filters** for deeper breakdowns (CampaignID, Gender, Interests, Placements).  
-- Enhanced storytelling with clean visuals and tooltips for better interactivity.  
-
-**Skills Gained:**  
-- Marketing Analytics  
-- Campaign Optimization  
-- Dashboard Storytelling & Data Visualization  
-
-**Key Insights:**  
-- CTR varied significantly across interests and placements.  
-- Despite high impressions, certain campaigns showed **drop-offs** before conversion.  
-- Gender- and interest-based targeting provided actionable insights for optimization.  
-
-**Outcome:**  
-Delivered a **Social Media Campaign Performance Tracker** dashboard that highlights strengths, inefficiencies, and ROI-driven insights for better ad strategy.
 
 
+FUTURE_DS_02
+Task 2 — Social Media Campaign Performance Tracker (Power BI / Looker Studio)
+
+A dashboard analyzing Facebook & Instagram ad campaign data to track engagement, CTR, and ROI, with funnel visualization for conversions.
+
+📁 Files
+
+Task2/Social_Media_Campaign.pbix — Power BI dashboard file
 
 
+🎯 Objectives
 
+Track Impressions, Clicks, CTR, Conversions, and ROI.
+
+Create a Funnel Chart (Impressions → Clicks → Approved Conversions).
+
+Compare performance by Campaign ID, Gender, Interests, and Placements.
+
+Provide KPI Cards for quick insights.
+
+Enable drill-down with filters for campaign analysis.
+
+📊 Key Measures (DAX)
+-- CTR
+CTR = DIVIDE([Total Clicks], [Total Impressions], 0)
+
+-- Conversion Rate
+Conversion Rate = DIVIDE([Approved Conversions], [Total Clicks], 0)
+
+-- ROI
+ROI = DIVIDE([Revenue] - [Spend], [Spend])
+
+-- Engagement Rate
+Engagement Rate = DIVIDE([Clicks] + [Likes] + [Shares] + [Comments], [Impressions])
+
+✅ Completed Tasks
+
+Task 2 – Social Media Campaign Performance Tracker
+
+Objective: Analyze Facebook/Instagram campaign data to evaluate CTR, ROI, and engagement.
+
+Tools Used: Power BI, Google Looker Studio, Excel/Sheets, Canva (optional for design)
+
+Skills Gained: Marketing analytics, campaign optimization, dashboard storytelling
+
+Deliverable: Interactive dashboard with funnel visualization, KPIs, and campaign insights to support better ad spend strategy.
