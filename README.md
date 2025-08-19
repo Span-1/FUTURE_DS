@@ -62,46 +62,37 @@ Tools Used: Power BI,Excel
 Skills Gained: Data cleaning, DAX formulas, trend analysis, business storytelling
 
 Deliverable: Interactive Power BI dashboard with visuals and insights
+# Task 2: Social Media Campaign Performance Tracker
 
-## FUTURE_DS_02
+**Objective:**  
+Analyze Facebook & Instagram ad campaign data to evaluate performance, engagement, CTR, and ROI.  
 
-**Task 2 - Student Event Feedback Analysis**
+**Tools Used:**  
+- Power BI  
+- Google Looker Studio  
+- Excel/Google Sheets  
+- Canva (for visual enhancement, optional)  
 
-## 📌 Task Overview
-This task focuses on analyzing student feedback collected from an event.  
-The dataset includes responses to multiple questions with ratings, comments, and engagement metrics.  
-The goal is to identify patterns, compute average ratings, and visualize insights using Power BI.
+**Process:**  
+- Designed a **dashboard** to track key campaign metrics including Impressions, Clicks, CTR, Conversions, and Spend.  
+- Built a **Funnel Chart** (Impressions → Clicks → Approved Conversions) to visualize the customer journey.  
+- Used **Matrix and Category Filters** for deeper breakdowns (CampaignID, Gender, Interests, Placements).  
+- Enhanced storytelling with clean visuals and tooltips for better interactivity.  
 
----
+**Skills Gained:**  
+- Marketing Analytics  
+- Campaign Optimization  
+- Dashboard Storytelling & Data Visualization  
 
-## 🔑 Objectives
-- Clean and structure the feedback dataset.
-- Calculate average ratings per question.
-- Identify key trends in student satisfaction.
-- Create visualizations for better understanding.
+**Key Insights:**  
+- CTR varied significantly across interests and placements.  
+- Despite high impressions, certain campaigns showed **drop-offs** before conversion.  
+- Gender- and interest-based targeting provided actionable insights for optimization.  
 
----
-
-## 🛠️ Tools & Technologies
-- **Power BI** (Data Visualization & Dashboarding)  
-- **Excel / CSV** (Data Source)  
-- **DAX** (Measures for calculations like average ratings)  
-
----
-
-## 📊 Key Insights
-- **Average Rating** per question was computed and visualized.  
-- **Bar chart** representation showed variation in feedback across questions.  
-- Identified questions with relatively lower satisfaction, which can be improved in future events.  
-
----
+**Outcome:**  
+Delivered a **Social Media Campaign Performance Tracker** dashboard that highlights strengths, inefficiencies, and ROI-driven insights for better ad strategy.
 
 
----
 
-## 🚀 Learning Outcomes
-- Learned to create **custom DAX measures** (e.g., Average Ratings).  
-- Gained experience in designing **question-wise dashboards**.  
-- Improved understanding of **feedback analytics and reporting**.  
 
 
