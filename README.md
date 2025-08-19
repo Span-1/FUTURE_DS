@@ -63,7 +63,9 @@ Skills Gained: Data cleaning, DAX formulas, trend analysis, business storytellin
 
 Deliverable: Interactive Power BI dashboard with visuals and insights
 
-# FUTURE_DS_02 - Student Event Feedback Analysis
+# FUTURE_DS_02 
+
+Task 2 - Student Event Feedback Analysis
 
 ## 📌 Task Overview
 This task focuses on analyzing student feedback collected from an event.  
